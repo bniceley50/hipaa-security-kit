@@ -1,0 +1,11 @@
+﻿{
+  "name": "@hipaa-security-kit/audit-chain",
+  "version": "0.1.0",
+  "description": "Tamper-evident audit logging with cryptographic chain verification",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  }
+}

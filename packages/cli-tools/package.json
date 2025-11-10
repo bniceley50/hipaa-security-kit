@@ -1,0 +1,8 @@
+﻿{
+  "name": "@hipaa-security-kit/cli-tools",
+  "version": "0.1.0",
+  "description": "CLI tools for security operations",
+  "bin": {
+    "hipaa-security": "./dist/index.js"
+  }
+}

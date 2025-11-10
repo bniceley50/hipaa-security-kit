@@ -1,0 +1,7 @@
+﻿{
+  "name": "@hipaa-security-kit/rls-templates",
+  "version": "0.1.0",
+  "description": "Row-Level Security policy templates for healthcare applications",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts"
+}

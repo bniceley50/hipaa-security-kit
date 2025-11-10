@@ -1,0 +1,7 @@
+﻿{
+  "name": "@hipaa-security-kit/csp-strict",
+  "version": "0.1.0",
+  "description": "Content Security Policy enforcement for modern frameworks",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts"
+}
